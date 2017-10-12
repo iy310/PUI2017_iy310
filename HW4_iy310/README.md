@@ -2,14 +2,6 @@
 - Completed review on forked Srikanth's repo [baolingz/PUI2017_bz882](https://github.com/baolingz/PUI2017_bz882/tree/master/HW3_bz882). Pulling request confirmation pending atm.
 
 ## 2. Assignment 2
-This assignment I worked with Shreya Bamne.
-
-ANOVA - Shreya Bamne
-
-Multiple Regression - Ilha Youn
-
-Logistic Regression - together
-
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------------|:------------- |:----------------------------|:--------:|:-------:|:-----------|
