@@ -22,7 +22,7 @@ Logistic Regression	| 1.credit score | continuous  | 1.default or not default | 
 ## 3. Assignment 3
 worked on together with Shreya Bamne and Sunglyong Kim
 
-discussed concepts 
+discussed how to formulate the hypotheses. shared ideas on setting up the arrays from df for the tests. 
 
 
 ## Assignment 4
