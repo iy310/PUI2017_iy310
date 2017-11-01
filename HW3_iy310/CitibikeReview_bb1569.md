@@ -56,3 +56,6 @@ Since you are just looking at difference you could also write *pop.mean(menDurat
 * You could make your question investigate a more precise, and thus maybe more interesting idea. For example, check if the average length of women's ride is shorter than the men's average ride. By doing so you could have not just info about whether they are different but also on whether beign a female is correlated with taking shorter rides. In this case you would have: <br> 
 __H_0__ = *pop.mean(menDuration)=pop.mean(womenDuration) || pop.mean(menDuration)<pop.mean(womenDuration)*
 __H_A__ = *pop.mean(menDuration)>pop.mean(womenDuration)*
+
+
+# FBB good
